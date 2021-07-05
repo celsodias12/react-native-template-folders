@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-folders",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "author": "Celso Dias",
   "license": "MIT",
   "keywords": [
@@ -8,6 +8,14 @@
     "template",
     "react-native-template"
   ],
+  "bugs": {
+    "url": "https://github.com/celsodias12/react-native-template-folders/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:celsodias12/react-native-template-folders.git"
+  },
+  "homepage": "https://github.com/celsodias12/react-native-template-folders#readme",
   "files": [
     "src"
   ]
