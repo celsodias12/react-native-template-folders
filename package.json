@@ -1,0 +1,14 @@
+{
+  "name": "react-native-template-folders-test",
+  "version": "0.0.22",
+  "author": "Celso Dias",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "template",
+    "react-native-template"
+  ],
+  "files": [
+    "src"
+  ]
+}
