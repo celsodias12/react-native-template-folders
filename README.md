@@ -13,6 +13,9 @@
 </p>
 
 ## File Structure
+
+Also works in create-react-app
+<br>
 <br>
 
 ```bash
